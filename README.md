@@ -18,13 +18,19 @@ Used platform is mysql workbench and vs code.
 
 OUTPUTS:
 
+INNNER JOINS:
+
 <img width="528" height="285" alt="Image" src="https://github.com/user-attachments/assets/e9e65330-4f76-4531-94bb-6c9ca1b284b2" />
+
+LEFT JOINS:
 
 
 <img width="499" height="308" alt="Image" src="https://github.com/user-attachments/assets/78a8110f-5ee8-4304-9763-63f299dea18a" />
 
+RIGHT JOINS:
 
 <img width="633" height="313" alt="Image" src="https://github.com/user-attachments/assets/a505c7e8-de6d-42e9-8515-84ad956ee4e0" />
 
+FULL JOINS:
 
 <img width="751" height="347" alt="Image" src="https://github.com/user-attachments/assets/c3609347-94c1-49ce-a951-5995873e9347" />
